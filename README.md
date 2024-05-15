@@ -1,7 +1,7 @@
 # Fuel_Cell_Excavator_Model
 The model was used in the modeling section of the Chalmers University of Technology TME-180 Automotive Engineering Project to analyze the operation of a fuel cell excavator at different altitudes. The model was developed by Zikun Wang, Jinge Gao, Emil Alexsson, Shamith Satish and Pontus Rhedin (in no particular order).
 
-##Use Guideline
+## Use Guideline
 To try this model, you need to run CNV.m first to set up parameters, then use the slx file to start Simulink model.
 
 ##Abstract
