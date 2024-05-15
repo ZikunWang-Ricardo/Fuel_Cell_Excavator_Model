@@ -1,4 +1,4 @@
-# Fuel_Cell_Excavator_Model
+# Fuel Cell Excavator Model
 The model was used in the modeling section of the Chalmers University of Technology TME-180 Automotive Engineering Project to analyze the operation of a fuel cell excavator at different altitudes. The model was developed by [Zikun Wang](https://www.linkedin.com/in/zikunwang1999/), [Jinge Gao](https://www.linkedin.com/in/jinge-gao-753964255/), [Emil Alexsson](https://www.linkedin.com/in/emil-alexsson-484464145/), [Shamith Satish]() and [Pontus Rhedin](https://www.linkedin.com/in/pontus-mikael-rhedin-a87153180/) (in no particular order).
 
 ## Use Guideline
